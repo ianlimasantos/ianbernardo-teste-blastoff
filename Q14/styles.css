@@ -1,0 +1,32 @@
+.container {  
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "header header header"
+      "menu main right"
+      "menu footer footer";
+}
+.header{ 
+    grid-area: header;
+    background-color: aqua;
+}
+.menu{ 
+    grid-area: menu; 
+    background-color: rgb(227, 92, 224);
+}
+.footer{ 
+    grid-area: footer; 
+    background-color: rgb(225, 236, 13);
+}
+.main{ 
+    grid-area: main; 
+    background-color: rgb(73, 232, 78);
+}
+  .right { 
+    grid-area: right;
+    background-color: rgb(236, 135, 20);
+ }
+  
