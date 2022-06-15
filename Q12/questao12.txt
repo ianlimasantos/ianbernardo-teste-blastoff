@@ -1,0 +1,1 @@
+A letra correta é a C (green).Por causa da hierarquia do identificador ser a mais alta dentre a dos casos apresentados.
