@@ -1,0 +1,8 @@
+PRIMEIRA PERGUNTA 
+Não haverá no console o resultado da multiplicação, uma vez que há um erro: o nome da chamada da função
+diverge do nome que a função foi declarada. Para fins de aprofundamento, implementei o código e o erro é a frase entre aspas a seguir:
+"Uncaught ReferenceError: multiplica is not defined at script.js:5:9"
+
+SEGUNDA PERGUNTA
+
+A resposta certa é "!important" (no gabarito como letra C)
