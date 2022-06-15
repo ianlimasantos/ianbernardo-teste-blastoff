@@ -1,0 +1,7 @@
+ul li {
+    text-decoration: underline;
+}
+
+li:nth-child(3){
+    text-decoration: none;
+}
